@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](https://i.ibb.co/LhVKG99/Black-White-Modern-Simple-New-Arrival-Sport-Shoes-Banner.png)
+![Imagen decorativa de tu perfil](https://i.postimg.cc/PJFxWpwX/banner-Github.png)
 
 <h1 align="center">Hola 👋, Soy Antonio Romera</h1>
 <h3 align="center">👉 Sobre mi</h3>
