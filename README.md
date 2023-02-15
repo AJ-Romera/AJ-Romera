@@ -5,7 +5,7 @@
 
 Soy un **Desarrollador Fullstack**, llevo 2+ años estudiando desarrollo web de forma **autodidacta y práctica**, mi fortaleza es el **MERN Stack**, quiero trabajar en **remoto**, valoro que la empresa o consultora apoyen con cursos gratuitos y que den oportunidades aunque no tenga experiencia laboral en ámbito empresarial, ya que he hecho proyectos por mi cuenta y tengo la capacidad de hacer webs complejas.
 
-- 🌱 Estoy estudiando **Redux Toolkit, próximamente repasaré SASS y aprenderé TypeScript**
+- 🌱 Estoy estudiando **TypeScript**
 
 - 🔭 Actualmente busco mi **primer empleo de desarrollador fullstack**
 
